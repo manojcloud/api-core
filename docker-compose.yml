@@ -15,3 +15,5 @@ services:
         ACCEPT_EULA: "Y"
     ports:
         - "1443:1443"
+
+#demo
